@@ -1,0 +1,14 @@
+{
+  "name": "wifi-portal",
+  "version": "1.0.0",
+  "description": "This project aims at connecting myself automaticly on my wifi portal",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "13nrv",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^11.0.3"
+  }
+}
